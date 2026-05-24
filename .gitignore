@@ -1,0 +1,64 @@
+# Maven
+target/
+
+# IDE - VS Code
+.vscode/
+*.code-workspace
+
+# Java/Class files
+*.class
+*.jar
+*.war
+*.ear
+*.zip
+*.tar.gz
+*.rar
+
+# Package Files
+.m2/
+
+# Operating System Files
+.DS_Store
+Thumbs.db
+.DS_Store?
+._*
+.Spotlight-V100
+.Trashes
+ehthumbs.db
+
+# Application logs and output
+*.log
+logs/
+*.log.*
+
+# Spring Boot
+spring-boot-devtools.properties
+application-dev.properties
+application-local.properties
+application-test.properties
+
+# Environment variables
+.env
+
+# Build output
+dist/
+build/
+out/
+
+# Coverage reports
+.jacoco/
+coverage/
+*.coverage
+jacoco.exec
+
+# Misc
+*.swp
+*.swo
+*~
+.project
+.pydevproject
+.settings
+*.sublime-workspace
+.gradle/
+gradle-app.setting
+.gradletasknamecache
