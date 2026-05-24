@@ -62,3 +62,6 @@ jacoco.exec
 .gradle/
 gradle-app.setting
 .gradletasknamecache
+
+#sqlite
+*.db
